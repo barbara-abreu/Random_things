@@ -14,4 +14,4 @@ Did the same script in both python and C++, just to test running speed (and for 
 
 	extract_cluster_results.py
 
-Script to process output obtained from g_cluster from the GROMACS package into a more readable format.
+Script to process output obtained from g_cluster from the GROMACS package into a more readable/human-friendly format.
