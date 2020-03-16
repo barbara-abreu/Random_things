@@ -10,4 +10,8 @@ I got this idea when some marketing company called me and told my phone number h
 
 Did the same script in both python and C++, just to test running speed (and for fun obv). The C++ version is ~10 times faster.
 
-### Processing text output files
+### Scripts for processing text files
+
+	extract_cluster_results.py
+
+Script to process output obtained from g_cluster from the GROMACS package into a more readable format.
