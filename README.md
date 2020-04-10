@@ -15,3 +15,9 @@ Did the same script in both python and C++, just to test running speed (and for 
 	extract_cluster_results.py
 
 Script to process output obtained from g_cluster from the GROMACS package into a more readable/human-friendly format.
+
+### Thought experiment to show the unbiasedness of the OLS estimator
+
+	thought_experiment.py	
+	
+Script that performs a single linear regression (using OLS) on several samples,resampled from same dataset. In this way, many  values of b0 (intercept) and b1 (slope/coefficient) are generated and a mean is calculated.When plotting the distributions of the parameters, it is possible to see that the expected value of the parameters are the means of the distribution.
