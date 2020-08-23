@@ -1,5 +1,5 @@
-# Assorted_thingies
-Just small scripts I sometimes do, along with some scripts I make at my work.
+# Random things
+Just small scripts I sometimes do, along with some scripts I make at my work and other stuff.
 
 ### My CV in LATEX
 
