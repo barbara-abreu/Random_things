@@ -1,6 +1,10 @@
 # Random things
 Just small scripts I sometimes do, along with some scripts I make at my work and other stuff.
 
+### Script to get unique pairs from a list of values
+
+
+
 ### My CV in LATEX
 
 Just the LATEX source code for my CV.
