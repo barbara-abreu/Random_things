@@ -9,12 +9,12 @@ Just small scripts I sometimes do, along with some scripts I make at my work and
 
 	factorial_all_ways.py
 
-Inspired by  [https://www.programiz.com/python-programming/examples/factorial-recursion](this challenge.)
+Inspired by  [https://www.programiz.com/python-programming/examples/factorial-recursion](this) challenge.
 
 ### Script to calculate permutations in binary list
 
 	binary_permutations.py
-Inspired by [https://www.101computing.net/big-o-notation/] (this page.)
+Inspired by [https://www.101computing.net/big-o-notation/](this) page.
 
 
 ### My CV in LATEX
