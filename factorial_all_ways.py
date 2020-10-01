@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import numpy as np
+import sys
 
 imp=int(input("Insert number\n"))
  
@@ -34,4 +35,4 @@ if imp>=1:
     print (fac)
 elif imp<0:
     print ("Insert a positive number")
-    quit
+    sys.exit()
