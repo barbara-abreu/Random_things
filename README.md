@@ -1,6 +1,12 @@
 # Random things
 Just small scripts I sometimes do, along with some scripts I make at my work and other stuff.
 
+### Script to time my speech therapy exercises
+	
+	timer.py
+
+It count 15 periods of 10s each with 3s intervals in between.
+
 ### Script to get unique pairs from a list of values
 
 	get_unique_pairs.py
@@ -22,7 +28,7 @@ Inspired by [this](https://www.101computing.net/big-o-notation/) page.
 
 Just the LATEX source code for my CV.
 
-### Thought experiment to show the unbiasedness of the OLS estimator
+### Thought experiment to show the unbiasedness of the Ordinary Least Squares (OLS) estimator
 
 	thought_experiment.py	
 	
