@@ -1,11 +1,20 @@
 # Random things
 Just small scripts I sometimes do, along with some scripts I make at my work and other stuff.
 
+### Jupyter notebooks with some analyses
+	correlations_calpha_rms.ipynb
+
+Notebook in which I calculated the correlation between atomic displacements of C-alpha atoms, using 3D coordinates (RMS-root mean squared).
+
+	PCA_otherdimensions.ipynb
+	
+I had previously done a PCA analysis on atomic coordinates, with the goal of separating protein conformations that belonged to different proteins states, similarly to a clustering procedure. In this notebook, I choose different combinations of principal components ( beyond PC 1 and PC 2) and analyze the conformational content of those "clusters".
+
 ### Script to time my speech therapy exercises
 	
 	timer.py
 
-It count 15 periods of 10s each with 3s intervals in between.
+It counts 15 periods of 10s each with 3s intervals in between.
 
 ### Script to get unique pairs from a list of values
 
