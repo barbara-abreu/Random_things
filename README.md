@@ -8,7 +8,7 @@ Notebook in which I calculated the correlation between atomic displacements of C
 
 	PCA_otherdimensions.ipynb
 	
-I had previously done a PCA analysis on atomic coordinates, with the goal of separating protein conformations that belonged to different proteins states, similarly to a clustering procedure. In this notebook, I choose different combinations of principal components ( beyond PC 1 and PC 2) and analyze the conformational content of those "clusters".
+I had previously done a PCA analysis on atomic coordinates, with the goal of separating protein conformations that belonged to different proteins states, similarly to a clustering procedure. In this notebook, I choose different combinations of principal components ( beyond PC 1 and PC 2) and analyze the conformational content of those "clusters", also known as basins.
 
 ### Script to time my speech therapy exercises
 	
