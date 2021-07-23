@@ -1,5 +1,10 @@
 # Random things
-Just small scripts I sometimes do, along with some scripts I make at my work and other stuff.
+Just small scripts I sometimes do, along with some scripts I make at my work and other stuff (the following are ordered by chronological order) .
+
+### Script to extract all the audio files from Fr. Mike's podcast
+	basic_scraping.py
+Script used to download audio files from Fr. Mike's podcast " The Bible in a year". This script scrapes the webpage of google-podcasts and then downloads the files and renames them.
+
 
 ### Jupyter notebooks with some analyses
 	correlations_calpha_rms.ipynb
